@@ -5,11 +5,11 @@ Introdução a linguagem de programação JavaScript, declaração de variáveis
 Instale o [Visual Studio Code](https://code.visualstudio.com/download) e o [Node.js](https://nodejs.org/en/)
 
 * Para que você possa rodar a aplicação, entre pelo terminal na pasta onde se localiza os arquivos e rode o comando `node <nome do arquivo que deseja executar>`.
-* Para que se possa obter boas práticas em programação: utilize o padrão de claração de variáveis **CamelCase / Case Sensitive**.
+* Para que se possa obter boas práticas em programação: utilize o padrão declaração de variáveis **CamelCase / Case Sensitive**.
 
 ### Informações Importantes sobre declaração de variáveis:
 * **const**: variáveis que não sofrem alterações;
-* **let**: variáveis que não sofrem alterações;
+* **let**: variáveis que sofrem alterações;
 
 <br/>
 
