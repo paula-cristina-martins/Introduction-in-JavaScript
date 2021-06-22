@@ -1,6 +1,6 @@
 # JavaScript - Introdução :construction:
 
-Introdução a linguagem JavaScript, declaração de variáveis, estruturas condicionais e laços de repetições!
+Introdução a linguagem de programação JavaScript, declaração de variáveis, estruturas condicionais e laços de repetições!
 
 Instale o [Visual Studio Code](https://code.visualstudio.com/download) e o [Node.js](https://nodejs.org/en/)
 
